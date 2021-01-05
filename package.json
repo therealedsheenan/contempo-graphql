@@ -12,7 +12,7 @@
   "dependencies": {
     "apollo-client": "^1.9.2",
     "apollo-test-utils": "^0.3.2",
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "babel-plugin-dynamic-import-webpack": "^1.0.1",
     "babel-plugin-styled-components": "^1.1.4",
     "babel-plugin-transform-class-properties": "^6.24.1",
